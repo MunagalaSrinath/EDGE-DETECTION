@@ -76,8 +76,11 @@ plt.show()
 ![image](https://github.com/MunagalaSrinath/EDGE-DETECTION/assets/118678482/402c02fb-45a7-411e-b363-1c422f498241)
 
 ### SOBEL EDGE DETECTOR:
+sobel x axis
 ![image](https://github.com/MunagalaSrinath/EDGE-DETECTION/assets/118678482/12e26a9e-5f11-4517-9f8e-6c4757573c81)
+sobel y axis
 ![image](https://github.com/MunagalaSrinath/EDGE-DETECTION/assets/118678482/57304777-589f-4213-8c2c-7ab8ce5a71bf)
+sobel xy axis
 ![image](https://github.com/MunagalaSrinath/EDGE-DETECTION/assets/118678482/5a02a288-f2dc-4a18-ac9b-3942f939e585)
 ### LAPLACIAN EDGE DETECTOR
 ![image](https://github.com/MunagalaSrinath/EDGE-DETECTION/assets/118678482/1969155f-803e-4bc2-bc2e-0ce325e9a506)
